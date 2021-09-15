@@ -1,0 +1,37 @@
+C:\Users\Денис\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\MathNETFFT.csprojResolveAssemblyReference.cache
+C:\Users\Денис\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\MathNETFFT.Form1.resources
+C:\Users\Денис\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Денис\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\MathNETFFT.csproj.GenerateResource.Cache
+C:\Users\Денис\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\MathNETFFT.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Денис\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Денис\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Денис\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MathNet.Numerics.dll
+C:\Users\Денис\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MathNet.Numerics.xml
+C:\Users\Денис\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Денис\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+D:\3 курс\WindowsFormsApp7\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+D:\3 курс\WindowsFormsApp7\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+D:\3 курс\WindowsFormsApp7\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+D:\3 курс\WindowsFormsApp7\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MathNet.Numerics.dll
+D:\3 курс\WindowsFormsApp7\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MathNet.Numerics.xml
+D:\3 курс\WindowsFormsApp7\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\MathNETFFT.csprojResolveAssemblyReference.cache
+D:\3 курс\WindowsFormsApp7\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\MathNETFFT.Form1.resources
+D:\3 курс\WindowsFormsApp7\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+D:\3 курс\WindowsFormsApp7\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\MathNETFFT.csproj.GenerateResource.Cache
+D:\3 курс\WindowsFormsApp7\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\MathNETFFT.csproj.CoreCompileInputs.cache
+D:\3 курс\WindowsFormsApp7\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+D:\3 курс\WindowsFormsApp7\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+D:\3 course\Навроцкий\FFT\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+D:\3 course\Навроцкий\FFT\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+D:\3 course\Навроцкий\FFT\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+D:\3 course\Навроцкий\FFT\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MathNet.Numerics.dll
+D:\3 course\Навроцкий\FFT\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MathNet.Numerics.xml
+D:\3 course\Навроцкий\FFT\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\MathNETFFT.csprojResolveAssemblyReference.cache
+D:\3 course\Навроцкий\FFT\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\MathNETFFT.Form1.resources
+D:\3 course\Навроцкий\FFT\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+D:\3 course\Навроцкий\FFT\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\MathNETFFT.csproj.GenerateResource.cache
+D:\3 course\Навроцкий\FFT\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\MathNETFFT.csproj.CoreCompileInputs.cache
+D:\3 course\Навроцкий\FFT\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\MathNETFFT.csproj.CopyComplete
+D:\3 course\Навроцкий\FFT\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+D:\3 course\Навроцкий\FFT\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
